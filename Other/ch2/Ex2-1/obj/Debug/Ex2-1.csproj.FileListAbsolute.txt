@@ -1,0 +1,6 @@
+C:\CShap\WS\ch2\Ex2-1\bin\Debug\Ex2-1.exe.config
+C:\CShap\WS\ch2\Ex2-1\bin\Debug\Ex2-1.exe
+C:\CShap\WS\ch2\Ex2-1\bin\Debug\Ex2-1.pdb
+C:\CShap\WS\ch2\Ex2-1\obj\Debug\Ex2-1.csprojResolveAssemblyReference.cache
+C:\CShap\WS\ch2\Ex2-1\obj\Debug\Ex2-1.exe
+C:\CShap\WS\ch2\Ex2-1\obj\Debug\Ex2-1.pdb

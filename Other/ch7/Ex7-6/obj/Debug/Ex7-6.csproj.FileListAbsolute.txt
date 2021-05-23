@@ -1,0 +1,8 @@
+C:\CShap\WS\ch7\Ex7-6\bin\Debug\Ex7-6.exe.config
+C:\CShap\WS\ch7\Ex7-6\bin\Debug\Ex7-6.exe
+C:\CShap\WS\ch7\Ex7-6\bin\Debug\Ex7-6.pdb
+C:\CShap\WS\ch7\Ex7-6\obj\Debug\Ex7_6.Form1.resources
+C:\CShap\WS\ch7\Ex7-6\obj\Debug\Ex7_6.Properties.Resources.resources
+C:\CShap\WS\ch7\Ex7-6\obj\Debug\Ex7-6.csproj.GenerateResource.Cache
+C:\CShap\WS\ch7\Ex7-6\obj\Debug\Ex7-6.exe
+C:\CShap\WS\ch7\Ex7-6\obj\Debug\Ex7-6.pdb

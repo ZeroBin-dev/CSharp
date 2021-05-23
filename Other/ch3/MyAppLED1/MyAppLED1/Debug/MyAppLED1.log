@@ -1,0 +1,5 @@
+﻿  stdafx.cpp
+  MyAppDlg.cpp
+  MyApp.cpp
+  코드를 생성하고 있습니다...
+LINK : fatal error LNK1104: 'MyBusDll.lib' 파일을 열 수 없습니다.

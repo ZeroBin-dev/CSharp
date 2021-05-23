@@ -1,0 +1,5 @@
+C:\CShap\WS\ch2\Ex2-25\bin\Debug\Ex2-25.exe.config
+C:\CShap\WS\ch2\Ex2-25\bin\Debug\Ex2-25.exe
+C:\CShap\WS\ch2\Ex2-25\bin\Debug\Ex2-25.pdb
+C:\CShap\WS\ch2\Ex2-25\obj\Debug\Ex2-25.exe
+C:\CShap\WS\ch2\Ex2-25\obj\Debug\Ex2-25.pdb

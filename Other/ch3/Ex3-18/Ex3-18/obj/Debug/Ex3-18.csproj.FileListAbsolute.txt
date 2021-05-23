@@ -1,0 +1,6 @@
+C:\CShap\WS\ch3\Ex3-18\Ex3-18\bin\Debug\Ex3-18.exe.config
+C:\CShap\WS\ch3\Ex3-18\Ex3-18\bin\Debug\Ex3-18.exe
+C:\CShap\WS\ch3\Ex3-18\Ex3-18\bin\Debug\Ex3-18.pdb
+C:\CShap\WS\ch3\Ex3-18\Ex3-18\obj\Debug\Ex3-18.csprojResolveAssemblyReference.cache
+C:\CShap\WS\ch3\Ex3-18\Ex3-18\obj\Debug\Ex3-18.exe
+C:\CShap\WS\ch3\Ex3-18\Ex3-18\obj\Debug\Ex3-18.pdb

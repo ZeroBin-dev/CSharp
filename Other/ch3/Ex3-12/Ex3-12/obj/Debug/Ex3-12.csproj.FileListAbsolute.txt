@@ -1,0 +1,5 @@
+C:\CShap\WS\ch3\Ex3-12\Ex3-12\bin\Debug\Ex3-12.exe.config
+C:\CShap\WS\ch3\Ex3-12\Ex3-12\bin\Debug\Ex3-12.exe
+C:\CShap\WS\ch3\Ex3-12\Ex3-12\bin\Debug\Ex3-12.pdb
+C:\CShap\WS\ch3\Ex3-12\Ex3-12\obj\Debug\Ex3-12.exe
+C:\CShap\WS\ch3\Ex3-12\Ex3-12\obj\Debug\Ex3-12.pdb

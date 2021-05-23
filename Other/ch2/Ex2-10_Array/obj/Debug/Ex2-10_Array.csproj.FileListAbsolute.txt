@@ -1,0 +1,6 @@
+C:\CShap\WS\ch2\Ex2-10_Array\bin\Debug\Ex2-10_Array.exe.config
+C:\CShap\WS\ch2\Ex2-10_Array\bin\Debug\Ex2-10_Array.exe
+C:\CShap\WS\ch2\Ex2-10_Array\bin\Debug\Ex2-10_Array.pdb
+C:\CShap\WS\ch2\Ex2-10_Array\obj\Debug\Ex2-10_Array.csprojResolveAssemblyReference.cache
+C:\CShap\WS\ch2\Ex2-10_Array\obj\Debug\Ex2-10_Array.exe
+C:\CShap\WS\ch2\Ex2-10_Array\obj\Debug\Ex2-10_Array.pdb

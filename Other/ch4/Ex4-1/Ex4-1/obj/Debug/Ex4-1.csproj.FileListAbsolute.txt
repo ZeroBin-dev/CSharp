@@ -1,0 +1,5 @@
+C:\CShap\WS\ch4\Ex4-1\Ex4-1\bin\Debug\Ex4-1.exe.config
+C:\CShap\WS\ch4\Ex4-1\Ex4-1\bin\Debug\Ex4-1.exe
+C:\CShap\WS\ch4\Ex4-1\Ex4-1\bin\Debug\Ex4-1.pdb
+C:\CShap\WS\ch4\Ex4-1\Ex4-1\obj\Debug\Ex4-1.exe
+C:\CShap\WS\ch4\Ex4-1\Ex4-1\obj\Debug\Ex4-1.pdb

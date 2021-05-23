@@ -1,0 +1,9 @@
+C:\CShap\WS\ch8\Ex8-1\bin\Debug\Ex8-1.exe.config
+C:\CShap\WS\ch8\Ex8-1\bin\Debug\Ex8-1.exe
+C:\CShap\WS\ch8\Ex8-1\bin\Debug\Ex8-1.pdb
+C:\CShap\WS\ch8\Ex8-1\obj\Debug\Ex8_1.Form1.resources
+C:\CShap\WS\ch8\Ex8-1\obj\Debug\Ex8_1.Properties.Resources.resources
+C:\CShap\WS\ch8\Ex8-1\obj\Debug\Ex8-1.csproj.GenerateResource.Cache
+C:\CShap\WS\ch8\Ex8-1\obj\Debug\Ex8-1.exe
+C:\CShap\WS\ch8\Ex8-1\obj\Debug\Ex8-1.pdb
+C:\CShap\WS\ch8\Ex8-1\obj\Debug\Ex8-1.csprojResolveAssemblyReference.cache

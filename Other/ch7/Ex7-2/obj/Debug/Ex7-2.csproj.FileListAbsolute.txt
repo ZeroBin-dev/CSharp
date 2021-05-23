@@ -1,0 +1,9 @@
+C:\CShap\WS\ch7\Ex7-2\bin\Debug\Ex7-2.exe.config
+C:\CShap\WS\ch7\Ex7-2\bin\Debug\Ex7-2.exe
+C:\CShap\WS\ch7\Ex7-2\bin\Debug\Ex7-2.pdb
+C:\CShap\WS\ch7\Ex7-2\obj\Debug\Ex7-2.csprojResolveAssemblyReference.cache
+C:\CShap\WS\ch7\Ex7-2\obj\Debug\Ex7_2.Form1.resources
+C:\CShap\WS\ch7\Ex7-2\obj\Debug\Ex7_2.Properties.Resources.resources
+C:\CShap\WS\ch7\Ex7-2\obj\Debug\Ex7-2.csproj.GenerateResource.Cache
+C:\CShap\WS\ch7\Ex7-2\obj\Debug\Ex7-2.exe
+C:\CShap\WS\ch7\Ex7-2\obj\Debug\Ex7-2.pdb
